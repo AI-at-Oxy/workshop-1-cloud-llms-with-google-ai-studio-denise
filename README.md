@@ -44,3 +44,4 @@ Change the `MODEL` variable in `app.py`:
 | Ollama (local)   | `"ollama/llama3.2"`                   |
 | OpenAI           | `"gpt-4o-mini"`                       |
 | Anthropic        | `"anthropic/claude-sonnet-4-20250514"`|
+# workshop 1 complete
